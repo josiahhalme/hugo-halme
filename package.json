@@ -1,0 +1,20 @@
+{
+  "name": "hugo-halme",
+  "version": "1.0.0",
+  "description": "hugo-halme",
+  "main": "index.js",
+  "scripts": {
+    "dev": "hugo server --minify -D -E -F"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josiahhalme/hugo-halme"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josiahhalme/hugo-halme/issues"
+  },
+  "homepage": "https://github.com/josiahhalme/hugo-halme#readme"
+}
