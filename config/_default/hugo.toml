@@ -3,6 +3,7 @@
 # https://nunocoracao.github.io/blowfish/docs/getting-started/
 
 theme = "blowfish"
+baseURL = "https://halme.org/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
